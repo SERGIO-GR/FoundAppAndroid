@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FoundApp</string>
+    <string name="correo">Correo</string>
+    <string name="contraseña">Contraseña</string>
+</resources>
