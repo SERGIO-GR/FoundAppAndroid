@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436281738322",
+    "project_id": "foundapp-c6863",
+    "storage_bucket": "foundapp-c6863.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436281738322:android:8c60abad5111971c364b8b",
+        "android_client_info": {
+          "package_name": "com.example.foundapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436281738322-tnbnr9mrbg6tis63jasjoc4u2cd3bt9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7-jHK2aGzpjHDzoPQtH47rLw-SJnoKow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436281738322-tnbnr9mrbg6tis63jasjoc4u2cd3bt9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

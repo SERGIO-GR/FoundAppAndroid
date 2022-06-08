@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/general"
+        android:title="General">
+        <menu >
+            <item
+                android:id="@+id/Inicio"
+                android:icon="@drawable/ic_baseline_home_24"
+                android:title="Inicio" />
+            <item
+                android:id="@+id/CS"
+                android:icon="@drawable/ic_baseline_highlight_off_24"
+                android:title="Cerrar Sesion" />
+            <item
+                android:id="@+id/crearpubli"
+                android:icon="@drawable/ic_baseline_create_24"
+                android:title="Crear Publicacion" />
+        </menu>
+    </item>
+</menu>

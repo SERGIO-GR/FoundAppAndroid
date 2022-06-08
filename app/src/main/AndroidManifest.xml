@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FoundApp">
         <activity
+            android:name=".publi"
+            android:exported="false" />
+        <activity
+            android:name=".CrearPubli"
+            android:exported="false" />
+        <activity
+            android:name=".RegistrarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Index"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
